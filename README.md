@@ -19,4 +19,7 @@ I spent a lot of time figuring out the was to make a reservation system (comment
 ### Third Step: Reset!
 Probably the last part of the project was with having a way to reset the path. I tried many things before settling on an array and a for loop (which I had intended to use at an earlier part but had some problems). It was nice to figure out how to incorporate that at a different part and I'll definitely go back to try to clean up the drawPath() section. Right now, both my HTML and Javascript files are semi-long, and I know there are ways of making it more efficient, but I was more concerned with making all of the elements work. 
 
+### Fourth Step: Debugger/Console
+Figuring out how to implement the javascript and css on the github pages took more time than expected. This was, honestly, where I used the console and debugger the most. I was able to go into the page, try placing the links in different places, and click on the areas where there should be interaction. The console returned that there was not reference to that event, so I knew it wasn't the correct setup. That was my biggest version of problem solving, but it was definitely an essential one. 
+
 #### Thanks for taking a look at my project. I learned a lot while making it and am excited to keep building it out to what I imagined and hopefully find a use in the future. 
