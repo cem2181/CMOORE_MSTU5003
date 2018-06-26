@@ -2,8 +2,10 @@
 Final Project Repository for TC MSTU 5003
 
 ## Demonstration Page
+https://cem2181.github.io/CMOORE_MSTU5003/
 
 ## YouTube Video Explanation
+https://youtu.be/2Q0BwRipVEE
 
 ## Description of Project
 I wanted to make something that relates to my current work. The video linked above should show a lot of the information as far as the code is concerned, but here I can walk you through some of the thought processes and timeline. 
