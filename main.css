@@ -1,0 +1,36 @@
+.event-space {
+  fill: #5bbbe5;
+  fill-opacity: .5;
+}
+.event-space:hover {
+  fill: #ffe751;
+  fill-opacity: 1;
+}
+.office-space {
+  fill: #13247a;
+  fill-opacity: .5;
+}
+.office-space:hover {
+  fill: #ffe751;
+  fill-opacity: 1;
+}
+
+h5 {
+  padding-left: 5px;
+  padding-right:5px;
+}
+.btn {
+  margin-left: 10px;
+}
+.checkbox {
+  margin-left: 10px;
+}
+.btn-success {
+  margin-top: 10px;
+}
+.inner-container {
+  margin-left: -70px;
+}
+.radio {
+  margin-left: 10px;
+}
